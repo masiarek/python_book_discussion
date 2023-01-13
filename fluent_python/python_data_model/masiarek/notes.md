@@ -1,3 +1,4 @@
 # Adams folder
 ## links
-* https://github.com/masiarek/python_book_discussion/tree/main/fluent_python/python_data_model/masiarek
+
+https://github.com/fluentpython/example-code-2e/tree/master/01-data-model
